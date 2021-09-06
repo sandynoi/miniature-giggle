@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/miniature-giggle/static/css/main.6831eddc.chunk.css",
+    "main.js": "/miniature-giggle/static/js/main.667c1827.chunk.js",
+    "main.js.map": "/miniature-giggle/static/js/main.667c1827.chunk.js.map",
+    "runtime-main.js": "/miniature-giggle/static/js/runtime-main.3f813941.js",
+    "runtime-main.js.map": "/miniature-giggle/static/js/runtime-main.3f813941.js.map",
+    "static/js/2.228526f8.chunk.js": "/miniature-giggle/static/js/2.228526f8.chunk.js",
+    "static/js/2.228526f8.chunk.js.map": "/miniature-giggle/static/js/2.228526f8.chunk.js.map",
+    "index.html": "/miniature-giggle/index.html",
+    "static/css/main.6831eddc.chunk.css.map": "/miniature-giggle/static/css/main.6831eddc.chunk.css.map",
+    "static/js/2.228526f8.chunk.js.LICENSE.txt": "/miniature-giggle/static/js/2.228526f8.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/miniature-giggle/static/media/logo.b2e5a01e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f813941.js",
+    "static/js/2.228526f8.chunk.js",
+    "static/css/main.6831eddc.chunk.css",
+    "static/js/main.667c1827.chunk.js"
+  ]
+}
